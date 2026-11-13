@@ -9,14 +9,16 @@ last_name: Mariani
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  I am a graduate in Banking, Financial and Insurance Economics from the University of Macerata, with an academic background in Quantitative Finance and Risk Management, further developed through an Erasmus exchange at Kozminski University in Warsaw.
+  I have developed experience in quantitative finance, financial analysis, and systematic trading research, working on quantitative strategies across forex and cryptocurrency markets. My work involves Python-based backtesting, statistical analysis, econometric modelling, and machine learning techniques, with a focus on strategy performance and risk assessment.
+ My main interests include machine learning applied to trading, quantitative trading, data-driven financial modelling, and energy trading. I aim to contribute to research in financial machine learning and quantitative strategies, with a particular focus on robust statistical methodologies and the application of quantitative approaches to financial markets.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🇫 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
 url: "https://federicomariani.github.io" # the base hostname & protocol for your site
