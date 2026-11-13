@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a graduate in Banking, Financial and Insurance Economics from the University of Macerata, with an academic background in Quantitative Finance and Risk Management, further developed through an Erasmus exchange at Kozminski University in Warsaw.
+I am a graduate in Banking, Financial and Insurance Economics from the [University of Macerata](https://www.unimc.it/it), with an academic background in Quantitative Finance and Risk Management, further developed through an Erasmus exchange at [Kozminski University](https://www.kozminski.edu.pl/en) in Warsaw.
 
 I have developed experience in quantitative finance, financial analysis, and systematic trading research, working on quantitative strategies across forex and cryptocurrency markets. My work involves Python-based backtesting, statistical analysis, econometric modelling, and machine learning techniques, with a focus on strategy performance and risk assessment.
 
