@@ -33,7 +33,7 @@ I have developed experience in quantitative finance, financial analysis, and sys
 My main interests include machine learning applied to trading, quantitative trading, data-driven financial modelling, and energy trading. I aim to contribute to research in financial machine learning and quantitative strategies, with a particular focus on robust statistical methodologies and the application of quantitative approaches to financial markets.
 
 
-Contacts:
+# Contacts:
 
 [mariani.fede@outlook.com](mariani.fede@outlook.com)
 
