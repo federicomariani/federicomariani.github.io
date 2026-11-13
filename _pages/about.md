@@ -9,8 +9,8 @@ profile:
   image: blog_pic.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> [SSRN](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=8894352) </p>
-    <p> [ResearchGate](https://www.researchgate.net/profile/Federico-Mariani-3?ev=hdr_xprf) </p>
+    <p></p>
+    <p></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -33,8 +33,17 @@ I have developed experience in quantitative finance, financial analysis, and sys
 My main interests include machine learning applied to trading, quantitative trading, data-driven financial modelling, and energy trading. I aim to contribute to research in financial machine learning and quantitative strategies, with a particular focus on robust statistical methodologies and the application of quantitative approaches to financial markets.
 
 
+## My Works
+
+[SSRN](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=8894352)
+
+[ResearchGate](https://www.researchgate.net/profile/Federico-Mariani-3?ev=hdr_xprf)
+
+
 ## Contacts
 
 [mariani.fede@outlook.com](mariani.fede@outlook.com)
 
 [LinkedIn](https://www.linkedin.com/in/federicomariani-/)
+
+
