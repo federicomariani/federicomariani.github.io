@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>[mariani.fede@outlook.com] (mariani.fede@outlook.com)</p>
-    <p>[LinkedIn] (https://www.linkedin.com/in/federicomariani-/)</p>
+    <p></p>
+    <p></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -31,3 +31,6 @@ I am a graduate in Banking, Financial and Insurance Economics from the Universit
 I have developed experience in quantitative finance, financial analysis, and systematic trading research, working on quantitative strategies across forex and cryptocurrency markets. My work involves Python-based backtesting, statistical analysis, econometric modelling, and machine learning techniques, with a focus on strategy performance and risk assessment.
 
 My main interests include machine learning applied to trading, quantitative trading, data-driven financial modelling, and energy trading. I aim to contribute to research in financial machine learning and quantitative strategies, with a particular focus on robust statistical methodologies and the application of quantitative approaches to financial markets.
+
+[mariani.fede@outlook.com] (mariani.fede@outlook.com)
+[LinkedIn] (https://www.linkedin.com/in/federicomariani-/)
