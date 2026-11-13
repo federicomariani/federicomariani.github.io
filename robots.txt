@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://federicoomariani.github.io/federicoomariani.github.io//sitemap.xml
+Sitemap: https://federicomariani.github.io/federicomariani.github.io//sitemap.xml
