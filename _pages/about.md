@@ -28,7 +28,7 @@ latest_posts:
 
 I am a graduate in Banking, Financial and Insurance Economics from the [University of Macerata](https://www.unimc.it/it), with an academic background in Quantitative Finance and Risk Management, further developed through an Erasmus exchange at [Kozminski University](https://www.kozminski.edu.pl/en) in Warsaw.
 
-I have developed experience in quantitative finance, financial analysis, and systematic trading research, working on quantitative strategies across forex and cryptocurrency markets. My work involves Python-based backtesting, statistical analysis, econometric modelling, and machine learning techniques, with a focus on strategy performance and risk assessment.
+I have developed experience in quantitative finance, financial analysis, and systematic trading research. My work involves Python-based backtesting, statistical analysis, econometric modelling, and machine learning techniques, with a focus on strategy performance and risk assessment.
 
 My main interests include machine learning applied to trading, quantitative trading, data-driven financial modelling, and energy trading. I aim to contribute to research in financial machine learning and quantitative strategies, with a particular focus on robust statistical methodologies and the application of quantitative approaches to financial markets.
 
