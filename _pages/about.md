@@ -44,7 +44,7 @@ My main interests include machine learning applied to trading, quantitative trad
 
 ## Contacts
 
-[mariani.fede@outlook.com](mariani.fede@outlook.com)
+[mariani.fede@outlook.com](mailto:mariani.fede@outlook.com)
 
 [LinkedIn](https://www.linkedin.com/in/federicomariani-/)
 
