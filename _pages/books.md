@@ -37,7 +37,7 @@ nav_order: 8
 <div class="bookshelf-section">
   <div class="bookshelf-grid">
     <div class="bookshelf-book">
-      <div class="bookshelf-cover-wrap"><img class="bookshelf-cover" src="https://covers.openlibrary.org/b/isbn/9781118746912-L.jpg" alt="Cover of Algorithmic Trading: Winning Strategies and Their Rationale" loading="lazy"><span class="bookshelf-status">Finished</span></div>
+      <div class="bookshelf-cover-wrap"><img class="bookshelf-cover" src="https://covers.openlibrary.org/b/isbn/9781118460146-L.jpg" alt="Cover of Algorithmic Trading: Winning Strategies and Their Rationale" loading="lazy"><span class="bookshelf-status">Finished</span></div>
       <p class="bookshelf-title">Algorithmic Trading: Winning Strategies and Their Rationale</p>
       <p class="bookshelf-author">Ernest P. Chan</p>
     </div>
@@ -67,7 +67,7 @@ nav_order: 8
       <p class="bookshelf-author">Annie Duke</p>
     </div>
     <div class="bookshelf-book">
-      <div class="bookshelf-cover-wrap"><img class="bookshelf-cover" src="https://covers.openlibrary.org/b/isbn/9780141192323-L.jpg" alt="Cover of Dream Story" loading="lazy"><span class="bookshelf-status">Finished</span></div>
+      <div class="bookshelf-cover-wrap"><img class="bookshelf-cover" src="https://covers.openlibrary.org/b/isbn/9780241620229-L.jpg" alt="Cover of Dream Story" loading="lazy"><span class="bookshelf-status">Finished</span></div>
       <p class="bookshelf-title">Dream Story</p>
       <p class="bookshelf-author">Arthur Schnitzler</p>
     </div>
