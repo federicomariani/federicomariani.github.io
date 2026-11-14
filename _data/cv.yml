@@ -10,6 +10,17 @@ cv:
 
   sections:
     Experience:
+      - company: My Forex Funds - Prop Trading Firm
+        position: FX Trader
+        location: Mississauga, Canada (Remote)
+        start_date: 2022-02
+        end_date: 2023-09
+        highlights:
+          - Generated 10% alpha during the first year.
+          - Managed and actively traded USD 100K via CFDs.
+          - Managed the risk of the book and set profit targets and stop losses.
+          - Built a data-driven trading journal in Excel to analyze win rate, risk-reward ratio, and drawdown statistics, and used Monte Carlo simulation to assess worst-case scenarios.
+
       - company: Sefirot Financial Research
         position: Systematic Trading Research Analyst
         location: Milano, Italy (Remote)
