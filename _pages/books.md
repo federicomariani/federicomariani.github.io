@@ -12,7 +12,7 @@ nav_order: 8
 .bookshelf-book { min-width: 0; text-align: center; }
 .bookshelf-cover-wrap { position: relative; width: 100%; max-width: 175px; height: 230px; margin: 0 auto 0.7rem; box-shadow: 0 3px 12px rgba(0,0,0,.16); overflow: hidden; background: rgba(127,127,127,.06); }
 .bookshelf-cover { display: block; width: 100%; height: 100%; object-fit: contain; }
-.bookshelf-status { position: absolute; left: 0; right: 0; bottom: 0; padding: .38rem .25rem; background: rgba(25, 35, 45, .88); color: #fff; font-size: .72rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; text-align: center; }
+.bookshelf-status { position: absolute; left: 0; right: 0; bottom: 0; padding: .38rem .25rem; background: #198754; color: #fff; font-size: .72rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; text-align: center; }
 .bookshelf-title { font-weight: 600; line-height: 1.35; margin: 0 0 .25rem; }
 .bookshelf-author { font-size: .92rem; opacity: .78; margin: 0; }
 @media (max-width: 480px) { .bookshelf-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.4rem .9rem; } .bookshelf-cover-wrap { height: 205px; } }
@@ -26,16 +26,10 @@ nav_order: 8
 >
 > -- Alexander Elder, *Trading for a Living*
 
-## Currently Reading
+## Books that I am reading, have read, or will read
 
 <div class="bookshelf-section">
-  <div class="bookshelf-grid"></div>
-</div>
-
-## Read
-
-<div class="bookshelf-section">
-  <div class="bookshelf-grid">
+<div class="bookshelf-grid">
     <div class="bookshelf-book">
       <div class="bookshelf-cover-wrap"><img class="bookshelf-cover" src="https://covers.openlibrary.org/b/isbn/9781118460146-L.jpg" alt="Cover of Algorithmic Trading: Winning Strategies and Their Rationale" loading="lazy"><span class="bookshelf-status">Finished</span></div>
       <p class="bookshelf-title">Algorithmic Trading: Winning Strategies and Their Rationale</p>
@@ -73,9 +67,4 @@ nav_order: 8
     </div>
   </div>
 </div>
-
-## To Read
-
-<div class="bookshelf-section">
-  <div class="bookshelf-grid"></div>
 </div>
