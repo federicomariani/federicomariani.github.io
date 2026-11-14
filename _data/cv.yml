@@ -15,11 +15,11 @@ cv:
       username: example
 
   address:
-    street: Italy
+    # street: Italy
     # city: San Francisco
     # region: California
     # postalCode: CA 94115
-    # countryCode: US
+    countryCode: Italy
 
   sections:
     Education:
