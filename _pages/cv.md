@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
+cv_pdf: /assets/pdf/Federico_Mariani_CV.pdf # downloadable CV shown in the top-right button
 cv_format: rendercv # options: rendercv, jsonresume
 description: 
 toc:
