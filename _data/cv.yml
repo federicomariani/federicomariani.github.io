@@ -5,6 +5,7 @@ cv:
   image: ""
 
   address:
+    city: Italy
     countryCode: IT
 
   sections:
@@ -93,13 +94,17 @@ cv:
       - name: English
         summary: Advanced
 
-    Technical Skills:
+    Skills:
       - name: Technical Skills
-        keywords: "Excel (advanced), PowerPoint, Python, R, LaTeX"
-
-    AI Tools:
+        keywords:
+          - Excel (advanced)
+          - PowerPoint
+          - Python
+          - R
+          - LaTeX
       - name: AI Tools
-        keywords: "Codex"
+        keywords:
+          - Codex
 
     Interests:
       - name: Interests
