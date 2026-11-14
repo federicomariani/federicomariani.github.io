@@ -117,6 +117,22 @@ cv:
         keywords:
           - Codex
 
+    Certificates:
+      - name: Google Data Analytics
+        issuer: Google
+      - name: Portfolio and Risk Management
+        issuer: University of Geneva
+      - name: Global Market Simulations Experience
+        issuer: Bank of America
+      - name: Advanced Trading Algorithms
+        issuer: Indian School of Business
+      - name: Python for Data Science, AI & Development
+        issuer: IBM
+      - name: Introduction to Trading, Machine Learning & GCP
+        issuer: Google
+      - name: Introduction to Financial Engineering and Risk Management
+        issuer: Columbia University
+
     Interests:
       - name: Interests
         keywords: "Hiking, Entrepreneurship, AI"
