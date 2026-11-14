@@ -39,6 +39,8 @@ My main interests include machine learning applied to trading, quantitative trad
 
 [ResearchGate](https://www.researchgate.net/profile/Federico-Mariani-3?ev=hdr_xprf)
 
+[Google Scholar](https://scholar.google.com/citations?user=y7jAYWcAAAAJ&hl=en)
+
 
 ## Contacts
 
