@@ -118,6 +118,14 @@ cv:
           - Codex
 
     Certificates:
+      - name: Introduction to Probability and Random Variables
+        issuer: Politecnico di Milano
+      - name: Machine Learning
+        issuer: Politecnico di Milano
+      - name: Stochastic Processes
+        issuer: Politecnico di Milano
+      - name: Introduction to Machine Learning and Applications in Finance
+        issuer: University of Macerata
       - name: Google Data Analytics
         issuer: Google
       - name: Portfolio and Risk Management
