@@ -5,7 +5,7 @@ cv:
   image: ""
 
   address:
-    city: Italy
+    region: Italy
     countryCode: IT
 
   sections:
