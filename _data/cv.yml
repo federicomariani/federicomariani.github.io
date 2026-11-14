@@ -1,148 +1,107 @@
 cv:
   name: Federico Mariani
-  # label: ""
   email: mariani.fede@outlook.com
+  phone: "+39 3292428171"
   location: Italy
   image: ""
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
   address:
-    # street: Italy
-    # city: San Francisco
-    # region: California
-    # postalCode: CA 94115
-    countryCode: Italy
+    countryCode: IT
 
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
-
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Sefirot Financial Research
+        position: Systematic Trading Research Analyst
+        location: Milano, Italy (Remote)
+        start_date: 2026-02
+        end_date: present
         highlights:
-          - Relativity
-          - Description 2.
+          - Supported quantitative trading at a university association specialized in systematic trading strategies.
+          - Conducted Python-based backtesting of a systematic EUR/USD trading strategy, recognizing key performance drivers and market conditions influencing returns.
+          - Appraised risk-return profile (2:1 ratio, approximately 45% win rate out-of-sample) and ran Monte Carlo simulations to evaluate robustness, identifying maximum drawdown of about -9% and tail-risk exposure.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: D+A Strategies
+        position: Systematic Trader
+        location: Dubai, United Arab Emirates (Remote)
+        start_date: 2025-08
+        end_date: 2026-02
         highlights:
-          - Description 1.
-          - Description 2.
+          - Created a systematic trading strategy in an international trading association with 600+ members.
+          - Designed and tested a KAMA-based Bitcoin trading strategy using Bootstrap Grid Search, Bayesian Optimization, and White's Reality Check to assess statistical edge.
+          - Found optimal parameters (Sharpe 0.13, total return 4.6%) and validated results through robustness tests (p-value approximately 1), rejecting the presence of a significant market edge and documenting the methodology in a LaTeX technical report.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Azimut Capital Management
+        position: Financial Investment Analyst - Intern
+        location: Ancona, Italy
+        start_date: 2025-06
+        end_date: 2025-07
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Analyzed investment funds of Azimut, an independent asset manager with €145B+ AUM.
+          - Developed a Python-based CAPM model to estimate beta, expected return, and alpha using historical data.
+          - Collaborated with financial advisors on asset allocation and client portfolio analysis, contributing to investment recommendations.
+
+    Education:
+      - institution: University of Macerata
+        location: Macerata, Italy
+        area: Banking, Financial and Insurance Economics
+        studyType: Bachelor's Degree
+        start_date: 2022-12
+        end_date: 2026-10
+        highlights:
+          - "Relevant coursework: Financial Analysis, Investment and Asset Management, Financial Mathematics, Statistics, Data Mining."
+
+      - institution: Kozminski University Business School
+        location: Warsaw, Poland
+        area: Quantitative Finance & Risk Management
+        studyType: Erasmus Exchange
+        start_date: 2025-09
+        end_date: 2026-02
+        highlights:
+          - "Relevant coursework: Statistics for Machine Learning, Derivatives Valuation and Advanced Risk Management, Portfolio Analysis, Corporate Finance, Mergers and Acquisitions, Modern Banking Systems."
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Deep Dive into Société Générale Trading Scandal: Systemic Risk, Control Failures, and the Limits of Modern Risk Management"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Massimo Capuano
+          - Valentina De Gregori
+          - Federico Mariani
+        releaseDate: 2026-03
+        url: https://www.researchgate.net/publication/401436116_Deep_Dive_into_Societe_Generale_Trading_Scandal_Systemic_Risk_Control_Failures_and_the_Limits_of_Modern_Risk_Management
+        summary: Preprint.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "Supervised Machine Learning for Credit Default Prediction"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Federico Mariani
+        releaseDate: 2026-01
+        url: https://www.researchgate.net/publication/400096314_Supervised_Machine_Learning_for_Credit_Default_Prediction
+        summary: Preprint. An end-to-end credit risk model on the German Credit dataset (1,000 observations, 20 variables), using R. Logistic regression with stepwise selection reduced AIC from 730 to 704 (-3.6%) and residual deviance by approximately 26%; model performance reached AUC = 0.78.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "Analysis of an Algo Trading Strategy Based on the Kaufman Adaptive Moving Average (KAMA) and Statistical Validation Using Bootstrap and Bayesian Optimization"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Federico Mariani
+        releaseDate: 2025-12
+        url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5694583
+        summary: Working paper. A KAMA-based Bitcoin trading strategy assessed using Bootstrap Grid Search, Bayesian Optimization, and White's Reality Check.
+
+      - title: "Multi-Horizon VIX Forecasting: Econometric, ML and Deep Learning Models with Prediction Market Features"
+        authors:
+          - Federico Mariani
+        summary: Developing paper based on a thesis benchmarking Random Walk, ARIMA, HAR-Type, Random Forest, XGBoost, LSTM, and TFT models to forecast the CBOE VIX across 1-, 5-, and 22-day horizons. Polymarket prediction-market features were engineered and models optimized using Grid Search CV and Bayesian Optimization. Directional accuracy reached up to 67.86%; TFT was the most competitive deep learning architecture for point-forecast accuracy at longer horizons.
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
+      - name: Italian
+        summary: Fluent
       - name: English
-        summary: "Fluent"
+        summary: Advanced
+
+    Technical Skills:
+      - name: Technical Skills
+        keywords: "Excel (advanced), PowerPoint, Python, R, LaTeX"
+
+    AI Tools:
+      - name: AI Tools
+        keywords: "Codex"
 
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: Interests
+        keywords: "Hiking, Entrepreneurship, AI"
