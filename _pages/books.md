@@ -64,6 +64,11 @@ nav_order: 8
       <p class="bookshelf-title">Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts</p>
       <p class="bookshelf-author">Annie Duke</p>
     </div>
+    <div class="bookshelf-book">
+      <img class="bookshelf-cover" src="https://covers.openlibrary.org/b/isbn/9780141192323-L.jpg" alt="Cover of Dream Story" loading="lazy">
+      <p class="bookshelf-title">Dream Story</p>
+      <p class="bookshelf-author">Arthur Schnitzler</p>
+    </div>
   </div>
 </div>
 
