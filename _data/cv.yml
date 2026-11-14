@@ -1,7 +1,6 @@
 cv:
   name: Federico Mariani
   email: mariani.fede@outlook.com
-  phone: "+39 3292428171"
   location: Italy
   image: ""
 
@@ -22,7 +21,7 @@ cv:
 
       - company: D+A Strategies
         position: Systematic Trader
-        location: Dubai, United Arab Emirates (Remote)
+        location: Dubai (Remote)
         start_date: 2025-08
         end_date: 2026-02
         highlights:
