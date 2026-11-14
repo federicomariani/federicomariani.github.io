@@ -1,11 +1,9 @@
 ---
 layout: page
-title: submenus
+title: bookshelf
 nav: true
 nav_order: 8
-dropdown: true
-children:
-  - title: bookshelf
+dropdown: false
     permalink: /books/
   - title: divider
   - title: blog
